@@ -1,1 +1,3 @@
-GET http://localhost:8181/items
+# GET http://localhost:8181/items?page=2&limit=30
+
+# GET http://localhost:8181/count
